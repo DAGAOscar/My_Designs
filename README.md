@@ -54,6 +54,5 @@ Each main project folder typically contains:
 
 ---
 
-**Author:** _Your Name_
-
+**Author:** Moudjo Oscar DAGA
 **License:** _Specify your license here (e.g., MIT, Apache 2.0, etc.)_
