@@ -1,0 +1,5 @@
+MESSAGE "File: C:/My_Designs/Tutorials_cz0940_LF/TutorVHDL_Sr0940/src/TestBench/tutorvhdl_TB.vhd" 
+MESSAGE "Compile Entity "tutorvhdl_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "tutorvhdl_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_tutorvhdl"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]" 

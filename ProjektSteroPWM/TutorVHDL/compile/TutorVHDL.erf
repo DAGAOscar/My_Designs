@@ -1,0 +1,4 @@
+MESSAGE "File: C:/My_Designs/ProjektSteroPWM/TutorVHDL/src/TestBench/PWM_TB.vhd" 
+MESSAGE "Compile Entity "PWM_tb"" 
+MESSAGE "Compile Architecture "behavior" of Entity "PWM_tb"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]" 

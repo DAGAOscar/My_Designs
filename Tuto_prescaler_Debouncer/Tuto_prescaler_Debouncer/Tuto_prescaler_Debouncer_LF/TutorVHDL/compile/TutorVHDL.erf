@@ -1,0 +1,5 @@
+MESSAGE "File: ./../compile/Top.vhd" 
+MESSAGE "Compile Entity "Top"" 
+MESSAGE "Compile Architecture "Top" of Entity "Top"" 
+WARNING ELAB1_0026: "There is no default binding for component "Debouncer". (No entity named "Debouncer" was found)." "./../compile/Top.vhd" 110 0
+SUCCESS "Compile success 0 Errors 1 Warnings  Analysis time :  0.0 [ms]" 

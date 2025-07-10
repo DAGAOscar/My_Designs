@@ -1,0 +1,16 @@
+152
+~M 0 "" 0 TutorVHDL
+~A 0 "" 0 TutorVHDL
+~E 0 "" 0 Debouncer
+~M 2 "" 0 glbl
+~A 0 "" 0 glbl
+~E 0 "" 0 Prescaler
+~A 0 "" 0 Prescaler
+~E 0 "" 0 Top
+~A 0 "" 0 Top
+~E 0 "" 0 TutorVHDL
+~A 0 "" 0 TutorVHDL
+~E 0 "" 0 tutorvhdl_tb
+~A 0 "" 0 TB_ARCHITECTURE
+~M 2 "" 0 tutorvhdl_tb_tim
+~A 0 "" 0 tutorvhdl_tb_tim

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Dec 21 13:30:06 2021
+# Process ID: 25424
+# Current directory: C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/synthesis
+# Command line: vivado.exe -mode batch -log vivado.log -journal transcript.log -source C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/synthesis/run_vivado.tcl
+# Log file: C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/synthesis/vivado.log
+# Journal file: C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/synthesis\transcript.log
+#-----------------------------------------------------------
+source C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/synthesis/run_vivado.tcl

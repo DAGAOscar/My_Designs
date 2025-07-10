@@ -1,0 +1,80 @@
+timestamp=1640094018892
+
+[~A]
+ModifyID=152
+Version=74
+
+[~MFT]
+0=0|0TutorVHDL_timing.mgf|1420|0
+2=0|2TutorVHDL_timing.mgf|4532|0
+
+[TutorVHDL]
+A/TutorVHDL=*22|../implement/TutorVHDL.v|18|
+
+[debouncer]
+NSymbols/debouncer=NSymbols/Debouncer 40|0|2*0
+
+[glbl]
+A/glbl=*22|../implement/TutorVHDL.v|324|
+
+[prescaler]
+A/prescaler=A/Prescaler *21|../src/Prescaler.vhd|31|
+NSymbols/prescaler=NSymbols/Prescaler 40|0|2*2459
+
+[top]
+A/top=A/Top *24|../src/Top.bde|10000|
+
+[tutorvhdl]
+A/tutorvhdl=A/TutorVHDL *21|../src/TutorVHDL.vhd|36|
+NSymbols/tutorvhdl=NSymbols/TutorVHDL 40|0|2*4532
+
+[tutorvhdl_tb]
+A/tb_architecture=A/TB_ARCHITECTURE *21|../src/TestBench/tutorvhdl_TB.vhd|10|
+
+[tutorvhdl_tb_tim]
+A/tutorvhdl_tb_tim=*22|../src/TestBench/tutorvhdl_TB_tim.v|22|
+
+[~U]
+TutorVHDL=12|0*0|
+debouncer=Debouncer 11|||0x7
+glbl=12|0*456||0x10
+prescaler=Prescaler 11|0*644||0x7
+top=Top 11|0*835|
+tutorvhdl=TutorVHDL 11|0*1062||0x3
+tutorvhdl_tb=11|0*1290|
+tutorvhdl_tb_tim=12|0*1420||0x10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

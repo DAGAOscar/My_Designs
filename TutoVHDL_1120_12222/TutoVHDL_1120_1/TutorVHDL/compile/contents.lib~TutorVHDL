@@ -1,0 +1,21 @@
+59
+~M 0 "" 0 $root
+~A 1 "" 0 $root
+~E 1 "../src/Debouncer.vhd" 23 Debouncer
+~A 1 "../src/Debouncer.vhd" 35 Debouncer
+~E 0 "" 0 Fub1
+~E 0 "" 0 Fub2
+~E 1 "../src/Prescaler.vhd" 20 Prescaler
+~C 1 "../src/TestBench/tutorvhdl_TB_synth.vhd" 347 testbench_for_tutorvhdl
+~E 1 "../compile/Top.vhd" 27 Top
+~E 1 "../src/TutorVHDL.vhd" 19 TutorVHDL
+~A 1 "../src/TutorVHDL.vhd" 28 Behavioral
+~A 1 "../synthesis/TutorVHDL.vhd" 33 structure
+~A 1 "../src/TutorVHDL.vhd" 36 tutorvhdl
+~E 1 "../src/TestBench/tutorvhdl_TB.vhd" 7 tutorvhdl_tb
+~A 1 "../src/TestBench/tutorvhdl_TB.vhd" 10 behavior
+~A 1 "../src/TestBench/tutorvhdl_TB.vhd" 10 TB_ARCHITECTURE
+~E 1 "../src/TestBench/tutorvhdl_TB_synth.vhd" 8 tutorvhdl_tb_synth
+~A 1 "../src/TestBench/tutorvhdl_TB_synth.vhd" 11 TB_ARCHITECTURE
+~M 3 "../src/TestBench/tutorvhdl_TB_tim.v" 22 tutorvhdl_tb_tim
+~A 1 "../src/TestBench/tutorvhdl_TB_tim.v" 22 tutorvhdl_tb_tim

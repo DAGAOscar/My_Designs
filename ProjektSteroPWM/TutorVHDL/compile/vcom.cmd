@@ -1,0 +1,1 @@
+-w -erf C:/My_Designs/ProjektSteroPWM/TutorVHDL/compile/TutorVHDL.erf -d C:/My_Designs/ProjektSteroPWM/TutorVHDL/compile -s C:/My_Designs/ProjektSteroPWM/TutorVHDL/library.cfg -j C:/My_Designs/ProjektSteroPWM/TutorVHDL/projlib.cfg -work TutorVHDL -dbg -e 100 -work TutorVHDL -2002 C:/My_Designs/ProjektSteroPWM/TutorVHDL/src/TestBench/PWM_TB.vhd 

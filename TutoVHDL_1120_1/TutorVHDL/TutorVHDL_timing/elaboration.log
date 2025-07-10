@@ -1,0 +1,45 @@
+Active-HDL 11.1.261.7351 2021-12-15 10:13:53
+
+Elaboration top modules:
+Verilog Module                tutorvhdl_tb_tim
+Verilog Module                glbl
+
+
+------------------------------------------------------------------------------------------------------------------------
+Verilog Module          | Library          | Info | Compiler Version        | Compilation Options
+------------------------------------------------------------------------------------------------------------------------
+glbl                    | tutorvhdl_timing |      | 11.1.261.7351 (Windows) | -O2 -sv2k12
+tutorvhdl_tb_tim        | tutorvhdl_timing |      | 11.1.261.7351 (Windows) | -O2 -sv2k12
+TutorVHDL               | tutorvhdl_timing |      | 11.1.261.7351 (Windows) | -O2 -sv2k12
+IBUF                    | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+BUFG                    | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+LDCE                    | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+LUT3                    | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+LUT6                    | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+LUT5                    | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+FDCE                    | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+MUXF7                   | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+OBUFT                   | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+LUT1                    | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+UDP                     | Library          | Info | Compiler Version        | Compilation Options
+------------------------------------------------------------------------------------------------------------------------
+latchsre_ldce           | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+x_lut3_mux8             | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+x_lut1_mux2             | simprims_ver     |      | 11.1.261.7351 (Windows) | +define+XIL_TIMING -vendor Xilinx -sv2k12
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+Library                 | Comment
+------------------------------------------------------------------------------------------------------------------------
+simprims_ver            | Xilinx Vivado 2019.1.3, SIMPRIM Verilog library
+tutorvhdl_timing        | None
+------------------------------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access +r tutorvhdl_tb_tim glbl -L C:\Aldec\Active-HDL-11.1\vlib\xilinx_vivado\simprims_ver -sdftyp -AUTO="C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940/implement/TutorVHDL.sdf"
+
+
+The performance of simulation is reduced. Version EDU Edition

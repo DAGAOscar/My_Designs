@@ -1,0 +1,5 @@
+MESSAGE "File: C:/My_Designs/tuto4_final/TutorVHDL/src/TestBench/tutorvhdl_TB.vhd" 
+MESSAGE "Compile Entity "tutorvhdl_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "tutorvhdl_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_tutorvhdl"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]" 

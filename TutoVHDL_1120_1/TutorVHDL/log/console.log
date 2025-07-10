@@ -1,0 +1,22 @@
+# Warning: You do not have valid license to open EDIF Netlist files. Contact Aldec for ordering information - sales@aldec.com.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Design Explorer: Shortcut to "C:\My_Designs\TutoVHDL_1120_1\TutorVHDL\TutorVHDL.aws" workspace added.
+# Waveform file 'C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/src/TutorVHDL.awc' connected to 'C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/src/TutorVHDL.asdb'.
+# Waveform file 'C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/src/tutor_tb_synth.awc' connected to 'C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/src/tutor_tb_synth.asdb'.
+acom -dbg -e 100 -work tutorvhdl -2002  $dsn/src/TestBench/tutorvhdl_TB.vhd
+# File: C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/src/TestBench/tutorvhdl_TB.vhd
+# Compile Entity "tutorvhdl_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "tutorvhdl_tb"
+# Compile Configuration "TESTBENCH_FOR_tutorvhdl"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -dbg -e 100 -work TutorVHDL_post_synthesis -2002  $dsn/src/TestBench/tutorvhdl_TB_synth.vhd
+# File: C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/src/TestBench/tutorvhdl_TB_synth.vhd
+# Compile Entity "tutorvhdl_tb_synth"
+# Error: COMP96_0059: TestBench/tutorvhdl_TB_synth.vhd : (3, 1): Library "unisim" not found.
+# Error: COMP96_0078: TestBench/tutorvhdl_TB_synth.vhd : (4, 5): Unknown identifier "unisim".
+# Compile Architecture "TB_ARCHITECTURE" of Entity "tutorvhdl_tb_synth"
+# Error: COMP96_0056: TestBench/tutorvhdl_TB_synth.vhd : (11, 1): Cannot find referenced entity declaration "tutorvhdl_tb_synth".
+# Compile Configuration "TESTBENCH_FOR_tutorvhdl"
+# Error: COMP96_0208: TestBench/tutorvhdl_TB_synth.vhd : (347, 1): For a configuration of a given design entity, both the configuration declaration and the corresponding entity declaration must reside in the same library.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  31.0 [ms]

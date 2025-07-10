@@ -1,0 +1,9 @@
+26
+~E 1 "../src/adder1.vhd" 28 adder1
+~A 1 "../src/adder1.vhd" 40 adder1
+~E 1 "../compile/adder3.vhd" 27 adder3
+~A 1 "../compile/adder3.vhd" 37 adder3
+~E 1 "../src/hex2led.vhd" 28 hex2led
+~A 1 "../src/hex2led.vhd" 37 hex2led
+~E 1 "../compile/top.vhd" 27 top
+~A 1 "../compile/top.vhd" 36 top

@@ -1,0 +1,5 @@
+i<>.\src\TutorVHDL.vhd
+i<>.\src\Top.bde
+i<>.\src\Prescaler.vhd
+i<>.\src\TestBench\tutorvhdl_TB_prescaler.vhd
+i<>.\src\Debouncer.vhd

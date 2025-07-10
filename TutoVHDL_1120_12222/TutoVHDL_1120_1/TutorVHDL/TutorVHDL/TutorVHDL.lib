@@ -1,0 +1,127 @@
+timestamp=1643198185734
+
+[~A]
+C:/My_Designs/Oscar_plik/TutoVHDL_1120_1/TutoVHDL_1120_1/TutorVHDL/src/TestBench/tutorvhdl_TB_tim.v=0*49954*50973
+LastVerilogToplevel=tutorvhdl_tb_tim
+ModifyID=59
+Version=74
+
+[~MFT]
+0=2|0TutorVHDL.mgf|58348|27823
+1=2|1TutorVHDL.mgf|178369|97525
+2=0|2TutorVHDL.mgf|24352|4170
+3=2|3TutorVHDL.mgf|89240|74608
+
+[$root]
+A/$root=22|||1*159778
+BinI32/$root=3*72381
+SLP=3*72485
+Version=11.1.261.7351 (Windows)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c73a565f2ade592f8ac1c68f484c9216b91b7c09b6badc8d3d28a1162d443a6a
+
+[debouncer]
+A/debouncer=A/Debouncer 21|../src/Debouncer.vhd|35|1*127322
+BinI32/debouncer=3*62494
+I=0*40555
+I/debouncer=I/Debouncer 0*41220
+M=11|0|ve4|1641988438338|../src/Debouncer.vhd|0*40190*0xe14cca84f664434953b32130f58dc642357109bd|0*40472*0x23b75c12e3e89f2ef000564498faa8c2
+M/debouncer=M/Debouncer 21|0|ve4|1641988438340|../src/Debouncer.vhd|0*40757*0x6bd084b4b459b1aca77e031981f26a17b6e39705|0*41124*0x9065d32a2e40e13794b29a2731812845
+R=../src/Debouncer.vhd|23
+Version=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|4d90a4496ba3730233421c77383657a2471558cb7edec52181b26edfc24e44ab24e0ff8a96855fe88e6033482d562dbd
+Version/debouncer=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|4d90a4496ba3730233421c77383657a2471558cb7edec52181b26edfc24e44ab24e0ff8a96855fe88e6033482d562dbd
+
+[fub1]
+NSymbols/fub1=NSymbols/Fub1 40|0|2*22301
+
+[fub2]
+NSymbols/fub2=NSymbols/Fub2 40|0|2*24352
+
+[prescaler]
+BinI32/prescaler=3*63201
+I=0*17636
+I/prescaler=I/Prescaler 0*41432
+M=11|0|ve4|1641984527825|../src/Prescaler.vhd|0*16502*0x630b6df7f305fe3ab057e6e8817c7df1b441b79c|0*16795*0x23b75c12e3e89f2ef000564498faa8c2
+R=../src/Prescaler.vhd|20
+Version=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|cae12c06217c698b50665c41a2a64cabb47390a3fca90f02da94c6585948d1096b631808239413363e2d6079579a8df3
+Version/prescaler=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|cae12c06217c698b50665c41a2a64cabb47390a3fca90f02da94c6585948d109b0657d990dad3f911b922c7026d47813
+
+[testbench_for_tutorvhdl]
+Configures=tutorvhdl_tb_synth.TB_ARCHITECTURE
+E=1*169706
+I=0*53588
+M=2|0|ve4|1642591960689|../src/TestBench/tutorvhdl_TB_synth.vhd|0*53129*0x42c66b526fd9516228fe6e212dd2f428b97591c7|0*53451*0x9065d32a2e40e13794b29a2731812845
+R=../src/TestBench/tutorvhdl_TB_synth.vhd|347
+Version=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|5efd636a07bb57613e35fadc81a5c3e528443d3a58e4a477926a0a1b77d750ea26527262ddaa47cb266f3a3c4d9b973a935533e44b052df744215e8c957fb16c
+
+[top]
+I=0*42536
+I/top=I/Top 0*43927
+M=11|0|ve4|1641988449397|../compile/Top.vhd|0*41953*0xd019bd9a2d1c9484e349a898b4bcae117d43c414|0*42461*0x23b75c12e3e89f2ef000564498faa8c2
+R=../compile/Top.vhd|27
+Version=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|f1fdecad8dc292011c024b8d633bc5c7d6bdc396850f14043033f408ea7f9ad7
+Version/top=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|f1fdecad8dc292011c024b8d633bc5c7d6bdc396850f14043033f408ea7f9ad7
+
+[tutorvhdl]
+A/behavioral=A/Behavioral 21|../src/TutorVHDL.vhd|28|1*174984
+A/structure=+21|../synthesis/TutorVHDL.vhd|33|1*137570
+A/tutorvhdl=+21|../src/TutorVHDL.vhd|36|1*162508
+BinI32/behavioral=3*87808
+I=0*54364
+I/behavioral=I/Behavioral 0*58220
+M=11|0|ve4|1643198034041|../src/TutorVHDL.vhd|0*53963*0xb8b16d46eeaf1472f6ad393a776c97982fd47ccb|0*54281*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|0|ve4|1643198185423|../src/TutorVHDL.vhd|0*54648*0x0633f70b32b4618be4d29a94f78874b3f9bae3ce|0*56310*0x9065d32a2e40e13794b29a2731812845
+M/structure=M/STRUCTURE 21|0|ve4|1641988504682|../synthesis/TutorVHDL.vhd|0*3758*0x9c659db26dbcd72149f50b8175dc5bc933cccc1b|0*11561*0x9065d32a2e40e13794b29a2731812845
+M/tutorvhdl=M/TutorVHDL 21|0|ve4|1642591520426|../src/TutorVHDL.vhd|0*0*0x40fc095f7d7d3768f221233bc8b0881a9692914e|0*755*0x9065d32a2e40e13794b29a2731812845
+NSymbols/tutorvhdl=NSymbols/TutorVHDL 40|0|2*18430
+R=../src/TutorVHDL.vhd|19
+Version=11.1.262.7351 (Windows)|00000004789cd34d494a0700030f015b|20396fab4808b0455ee4e8e23ab277166cb3ede13c6c57497d6e8e302b9cc7981ba777ed3d2301a82f51d9852f6eff49
+Version/behavioral=11.1.262.7351 (Windows)|00000004789cd34d494a0700030f015b|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4f7ceaf2acc9acde4d13f4dc4fe49b438
+Version/structure=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|eab8953fe0a98340e036eda18bd6d669520908b071c9b2c5bba6c893b05fa680c16a02db9f83cbf6ec1e724860978c29
+Version/tutorvhdl=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|20396fab4808b0455ee4e8e23ab277166cb3ede13c6c57497d6e8e302b9cc7987296412ab02c9f2083da7192c11c026f
+
+[tutorvhdl_tb]
+A/behavior=21|../src/TestBench/tutorvhdl_TB.vhd|10|1*178369
+A/tb_architecture=A/TB_ARCHITECTURE 21|../src/TestBench/tutorvhdl_TB.vhd|10|1*164169
+BinI32/behavior=3*89240
+BinI32/tb_architecture=3*79623
+I=0*19612
+I/behavior=0*58348
+I/tb_architecture=I/TB_ARCHITECTURE 0*51879
+M=11|0|ve4|1641983830272|../src/TestBench/tutorvhdl_TB.vhd|0*851*0xa190f0b9441ed245d0b03ed399875fa2bbb5076f|0*1076*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavior=21|0|ve4|1643198185723|../src/TestBench/tutorvhdl_TB.vhd|0*56535*0x882834673d713cf18d2b74f9b41f353ccc301ab0|0*57779*0x9065d32a2e40e13794b29a2731812845
+M/tb_architecture=M/TB_ARCHITECTURE 21|0|ve4|1642591520696|../src/TestBench/tutorvhdl_TB.vhd|0*1175*0x8aeb83a566d27842bd6e827f8d34dccc48237b46|0*3010*0x9065d32a2e40e13794b29a2731812845
+R=../src/TestBench/tutorvhdl_TB.vhd|7
+Version=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|eacdec5da445c42d2d988bedabdedac7bc7c7598776c03936aac17e3b6078c5555b180339b60f1703ba96c5a64d1d88c
+Version/behavior=11.1.262.7351 (Windows)|00000004789cd34d494a0700030f015b|f9bccf16e2dce5a640f0ad5e8eaa0283e08d679eaf1bc9de9439630905b37e5fe70e387eba77fc0f468a49b9ef1cb9b7
+Version/tb_architecture=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534bead3cd03deeb3b4926dcb5a534aedb82e4
+
+[tutorvhdl_tb_synth]
+A/tb_architecture=A/TB_ARCHITECTURE 21|../src/TestBench/tutorvhdl_TB_synth.vhd|11|1*167708
+BinI32/tb_architecture=3*81235
+I=0*20176
+I/tb_architecture=I/TB_ARCHITECTURE 0*52781
+M=11|0|ve4|1641983845369|../src/TestBench/tutorvhdl_TB_synth.vhd|0*11663*0x8d270d0ce721f14e8bdd07ae9dcfa1a892ab7728|0*11919*0x23b75c12e3e89f2ef000564498faa8c2
+M/tb_architecture=M/TB_ARCHITECTURE 21|0|ve4|1642591960682|../src/TestBench/tutorvhdl_TB_synth.vhd|0*12030*0x721c0413471629fbc59ce53e818b67ea844fce47|0*15913*0x9065d32a2e40e13794b29a2731812845
+R=../src/TestBench/tutorvhdl_TB_synth.vhd|8
+Version=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|e6632a3cd92682ce74195f2be70e044b57e099abd767d4b16d05ccf20045ce2a9e3242619e7515e0135d46a3851c499a
+Version/tb_architecture=11.1.261.7351 (Windows)|00000004789cd34d494a0700030f015b|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534beac01586a43154194f984789cde115d035
+
+[tutorvhdl_tb_tim]
+A/tutorvhdl_tb_tim=22|../src/TestBench/tutorvhdl_TB_tim.v|22|1*160152
+BinI32/tutorvhdl_tb_tim=3*72553
+R=../src/TestBench/tutorvhdl_TB_tim.v|22
+SLP=3*75021
+Version=11.1.261.7351 (Windows)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e6632a3cd92682ce74195f2be70e044b09da691c51a1d83709fb893a8f659c625f4363cc96e48d31f88e2a41008a1ea9
+
+[~U]
+$root=12|0*49569|
+debouncer=Debouncer 11|0*39992|
+fub1=Fub1 11|||0x7
+fub2=Fub2 11|||0x7
+prescaler=Prescaler 11|0*17445|
+testbench_for_tutorvhdl=TESTBENCH_FOR_tutorvhdl 2||
+top=Top 11|0*41726|
+tutorvhdl=TutorVHDL 11|0*53756||0x3
+tutorvhdl_tb=11|0*19482|
+tutorvhdl_tb_synth=11|0*20034|
+tutorvhdl_tb_tim=12|0*49767||0x10
+

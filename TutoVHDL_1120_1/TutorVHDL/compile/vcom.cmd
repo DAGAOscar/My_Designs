@@ -1,0 +1,1 @@
+-w -erf C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/compile/TutorVHDL.erf -d C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/compile -s C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/library.cfg -j C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/projlib.cfg -work tutorvhdl -dbg -e 100 -work TutorVHDL_post_synthesis -2002 C:/My_Designs/TutoVHDL_1120_1/TutorVHDL/src/TestBench/tutorvhdl_TB_synth.vhd 

@@ -1,0 +1,45 @@
+# Design: Design ALU already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: C-Synthesis: Not Defined
+# DESIGN: HDL Synthesis: Not Defined
+# DESIGN: Physical Synthesis: Not Defined
+# DESIGN: Implementation: Not Defined
+alog -O2 -sve -msg 5 -sv2k17 -work ALU $dsn/src/ALU.v $dsn/src/ALU_TB.v
+# Error: VCP2000 ALU.v : (1, 14): Syntax error. Unexpected token: '.
+# Error: VCP2000 ALU.v : (33, 11): Syntax error. Unexpected token: always[_ALWAYS].
+# Error: VCP2000 ALU.v : (33, 20): Syntax error. Unexpected token: begin[_GENERATE]. This is a Verilog keyword since IEEE Std 1364-2001 and cannot be used as an identifier. Use -v95 argument for compilation.
+# Error: VCP2000 ALU.v : (34, 12): Syntax error. Unexpected token: =.
+# Error: VCP2020 ALU.v : (48, 10): begin...end pair(s) mismatch detected. 1 <end> tokens are missing.
+# Error: VCP2020 ALU.v : (48, 10): case/x/z...endcase pair(s) mismatch detected. 1 <endcase> tokens are missing.
+# Error: VCP2020 ALU.v : (48, 10): module/macromodule...endmodule pair(s) mismatch detected. 1 <endmodule> tokens are missing.
+# Error: VCP2000 ALU.v : (48, 10): Syntax error. Unexpected token: end[_END].
+# Compile failure 8 Errors 0 Warnings  Analysis time: 0[s].
+alog -O2 -sve -msg 5 -sv2k17 -work ALU $dsn/src/ALU.v $dsn/src/ALU_TB.v
+# Error: VCP2000 ALU.v : (33, 11): Syntax error. Unexpected token: always[_ALWAYS].
+# Error: VCP2000 ALU.v : (33, 20): Syntax error. Unexpected token: begin[_GENERATE]. This is a Verilog keyword since IEEE Std 1364-2001 and cannot be used as an identifier. Use -v95 argument for compilation.
+# Error: VCP2000 ALU.v : (34, 12): Syntax error. Unexpected token: =.
+# Error: VCP2020 ALU.v : (48, 10): begin...end pair(s) mismatch detected. 1 <end> tokens are missing.
+# Error: VCP2020 ALU.v : (48, 10): case/x/z...endcase pair(s) mismatch detected. 1 <endcase> tokens are missing.
+# Error: VCP2020 ALU.v : (48, 10): module/macromodule...endmodule pair(s) mismatch detected. 1 <endmodule> tokens are missing.
+# Error: VCP2000 ALU.v : (48, 10): Syntax error. Unexpected token: end[_END].
+# Error: VCP1041 ALU_TB.v : (1, 11): Compiler directive `timescale is not allowed inside a module. Use "-err VCP1041 W1" to suppress this error.
+# Compile failure 8 Errors 0 Warnings  Analysis time: 0[s].
+alog -O2 -sve -msg 5 -sv2k17 -work ALU $dsn/src/ALU.v $dsn/src/ALU_TB.v
+# Error: VCP2000 ALU.v : (33, 11): Syntax error. Unexpected token: always[_ALWAYS].
+# Error: VCP2000 ALU.v : (34, 12): Syntax error. Unexpected token: =.
+# Error: VCP2020 ALU.v : (48, 10): begin...end pair(s) mismatch detected. 1 <end> tokens are missing.
+# Error: VCP2020 ALU.v : (48, 10): case/x/z...endcase pair(s) mismatch detected. 1 <endcase> tokens are missing.
+# Error: VCP2020 ALU.v : (48, 10): module/macromodule...endmodule pair(s) mismatch detected. 1 <endmodule> tokens are missing.
+# Error: VCP2000 ALU.v : (48, 10): Syntax error. Unexpected token: end[_END].
+# Error: VCP1041 ALU_TB.v : (1, 11): Compiler directive `timescale is not allowed inside a module. Use "-err VCP1041 W1" to suppress this error.
+# Compile failure 7 Errors 0 Warnings  Analysis time: 0[s].
+alog -O2 -sve -msg 5 -sv2k17 -work ALU $dsn/src/ALU.v $dsn/src/ALU_TB.v
+# Error: VCP2000 ALU.v : (33, 11): Syntax error. Unexpected token: always[_ALWAYS].
+# Error: VCP2000 ALU.v : (33, 20): Syntax error. Unexpected token: begin[_GENERATE]. This is a Verilog keyword since IEEE Std 1364-2001 and cannot be used as an identifier. Use -v95 argument for compilation.
+# Error: VCP2000 ALU.v : (34, 16): Syntax error. Unexpected token: =.
+# Error: VCP2020 ALU.v : (48, 10): begin...end pair(s) mismatch detected. 1 <end> tokens are missing.
+# Error: VCP2020 ALU.v : (48, 10): case/x/z...endcase pair(s) mismatch detected. 1 <endcase> tokens are missing.
+# Error: VCP2020 ALU.v : (48, 10): module/macromodule...endmodule pair(s) mismatch detected. 1 <endmodule> tokens are missing.
+# Error: VCP2000 ALU.v : (48, 10): Syntax error. Unexpected token: end[_END].
+# Error: VCP1041 ALU_TB.v : (1, 11): Compiler directive `timescale is not allowed i

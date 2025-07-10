@@ -1,0 +1,1 @@
+-w -d C:/My_Designs/UART/compile -s C:/My_Designs/UART/library.cfg -j C:/My_Designs/UART/projlib.cfg -work UART -O3 -e 100 -work UART -2002 C:/My_Designs/UART/src/TestBench/test_uart_TB.vhd 

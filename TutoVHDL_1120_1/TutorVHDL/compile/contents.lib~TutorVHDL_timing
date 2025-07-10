@@ -1,0 +1,11 @@
+132
+~M 0 "" 0 TutorVHDL
+~A 0 "" 0 TutorVHDL
+~M 2 "" 0 glbl
+~A 0 "" 0 glbl
+~E 0 "" 0 TutorVHDL
+~A 0 "" 0 TutorVHDL
+~E 0 "" 0 tutorvhdl_tb
+~A 0 "" 0 TB_ARCHITECTURE
+~M 2 "" 0 tutorvhdl_tb_tim
+~A 0 "" 0 tutorvhdl_tb_tim

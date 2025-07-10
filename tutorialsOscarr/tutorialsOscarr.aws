@@ -1,0 +1,12 @@
+[Version]
+Version=11.1
+[Designs]
+bde_tutorialoscar=.\BDE_tutorialOscar\BDE_tutorialOscar.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+bde_tutorialoscar=1

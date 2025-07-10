@@ -1,0 +1,67 @@
+-------------------------------------------------------------------------------
+--
+-- Title      : Design Flow Manager settings and simulation libraries
+-- Active-HDL : 11.1.261.7351
+-- Workspace  : TutorVHDL
+-- Design     : TutorVHDL
+-- Author     : student
+-- Company    : AGH
+-- Date       : 2021-12-01 11:17:29
+--
+-------------------------------------------------------------------------------
+1. Design Flow Manager Settings
+------------------------------------------------------------------------------------
+Language           | VHDL
+Flow Type          | HDL
+C Synthesis        | <none>  
+HDL Synthesis      | Xilinx Vivado 2019.1 Synthesis C:\Xilinx\Vivado\2019.1\bin
+Physical Synthesis | <none>  
+Implementation     | Xilinx Vivado 2019.1 Implementation C:\Xilinx\Vivado\2019.1\bin
+Family Name        | Xilinx2019x ARTIX7
+------------------------------------------------------------------------------------
+
+2. Working Library: TutorVHDL
+Active-HDL 11.1.261.7351 2021-12-01 11:15:03
+
+Elaboration top modules:
+VHDL Configuration            testbench_for_tutorvhdl
+
+
+--------------------------------------------------------------------------------------------------
+Entity       | Architecture    | Library   | Info | Compiler Version        | Compilation Options
+--------------------------------------------------------------------------------------------------
+tutorvhdl_tb | TB_ARCHITECTURE | tutorvhdl |      | 11.1.261.7351 (Windows) | -dbg
+TutorVHDL    | TutorVHDL       | tutorvhdl |      | 11.1.261.7351 (Windows) | -dbg
+--------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
+VHDL Configuration             | Library   | Info | Compiler Version        | Compilation Options
+--------------------------------------------------------------------------------------------------
+testbench_for_tutorvhdl        | tutorvhdl |      |                         | <unavailable>
+--------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
+VHDL Package                   | Library   | Info | Compiler Version        | Compilation Options
+--------------------------------------------------------------------------------------------------
+standard                       | std       |      |                         | <unavailable>
+TEXTIO                         | std       |      |                         | <unavailable>
+std_logic_1164                 | ieee      |      |                         | <unavailable>
+std_logic_arith                | ieee      |      |                         | <unavailable>
+STD_LOGIC_UNSIGNED             | ieee      |      |                         | <unavailable>
+--------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------
+Library                        | Comment
+--------------------------------------------------------------------------------------------------
+ieee                           | Standard IEEE packages library
+std                            | Standard VHDL library
+tutorvhdl                      | None
+--------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access +r TESTBENCH_FOR_tutorvhdl
+
+
+The performance of simulation is reduced. Version EDU Edition
+
+

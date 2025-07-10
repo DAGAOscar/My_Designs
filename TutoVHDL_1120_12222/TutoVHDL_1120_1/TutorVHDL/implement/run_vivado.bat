@@ -1,0 +1,1 @@
+@call "C:/Xilinx/Vivado/2019.1/bin/vivado.bat" -mode batch -log vivado.log -journal transcript.log -source "C:/My_Designs/Oscar_plik/Oscar_plik/TutoVHDL_1120_1/TutoVHDL_1120_1/TutorVHDL/implement/run_vivado.tcl"

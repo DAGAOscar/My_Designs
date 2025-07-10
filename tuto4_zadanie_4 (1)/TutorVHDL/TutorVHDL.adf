@@ -1,0 +1,79 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=TutorVHDL
+
+[Library]
+TutorVHDL=.\TutorVHDL\TutorVHDL.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=Xilinx14x ARTIX7
+fileopenfolder=D:\My_Designs\TutorVHDL\src
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=1
+
+[$LibMap$]
+TutorVHDL=.
+Active_lib=ARTIX7
+xilinxun=ARTIX7
+UnlinkedDesignLibrary=ARTIX7
+DESIGNS=ARTIX7
+
+[Groups]
+TestBench=1
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=tutorvhdl_tb|testbench_for_tutorvhdl|1 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/TutorVHDL.vhd=-1
+/untitled.asdb=-1
+/untitled.awc=-1
+/zadanie3_wave.asdb=-1
+/zadanie3_wave.awc=-1
+/zadanie2_wave.asdb=-1
+/zadanie2_wave.awc=-1
+/zadanie4_wave.asdb=-1
+/zadanie4_wave.awc=-1
+TestBench/tutorvhdl_TB.vhd=-1
+TestBench/tutorvhdl_TB_runtest.do=-1
+
+[Files.Data]
+.\src\TutorVHDL.vhd=VHDL Source Code
+.\src\untitled.asdb=Accelerated Waveform File
+.\src\untitled.awc=Accelerated Waveform Configuration
+.\src\zadanie3_wave.asdb=Accelerated Waveform File
+.\src\zadanie3_wave.awc=Accelerated Waveform Configuration
+.\src\zadanie2_wave.asdb=Accelerated Waveform File
+.\src\zadanie2_wave.awc=Accelerated Waveform Configuration
+.\src\zadanie4_wave.asdb=Accelerated Waveform File
+.\src\zadanie4_wave.awc=Accelerated Waveform Configuration
+.\src\TestBench\tutorvhdl_TB.vhd=VHDL Test Bench
+.\src\TestBench\tutorvhdl_TB_runtest.do=Macro
+

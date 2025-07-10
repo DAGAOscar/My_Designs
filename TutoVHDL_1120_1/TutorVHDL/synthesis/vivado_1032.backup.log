@@ -1,0 +1,69 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Dec  8 10:18:22 2021
+# Process ID: 1032
+# Current directory: C:/My_Designs/Tutorials_cz0940_LF/TutorVHDL_Sr0940/synthesis
+# Command line: vivado.exe -mode gui -log vivado.log -journal transcript.log -source C:/My_Designs/Tutorials_cz0940_LF/TutorVHDL_Sr0940/synthesis/run_vivado.tcl
+# Log file: C:/My_Designs/Tutorials_cz0940_LF/TutorVHDL_Sr0940/synthesis/vivado.log
+# Journal file: C:/My_Designs/Tutorials_cz0940_LF/TutorVHDL_Sr0940/synthesis\transcript.log
+#-----------------------------------------------------------
+start_gui
+source C:/My_Designs/Tutorials_cz0940_LF/TutorVHDL_Sr0940/synthesis/run_vivado.tcl
+# create_project -force TutorVHDL {C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\synthesis} -part 7a100tcsg324-1
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+create_project: Time (s): cpu = 00:00:12 ; elapsed = 00:00:07 . Memory (MB): peak = 789.078 ; gain = 193.062
+# add_files -norecurse {C:/My_Designs/Tutorials_cz0940_LF/TutorVHDL_Sr0940/src/TutorVHDL.vhd}
+# set_property top TutorVHDL [current_fileset]
+# set_property XPM_LIBRARIES {XPM_CDC XPM_MEMORY} [current_project]
+# synth_design -rtl
+Command: synth_design -rtl
+Starting synth_design
+Using part: xc7a100tcsg324-1
+Top: TutorVHDL
+INFO: [Device 21-403] Loading part xc7a100tcsg324-1
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:04 ; elapsed = 00:00:03 . Memory (MB): peak = 1195.785 ; gain = 164.703
+---------------------------------------------------------------------------------
+INFO: [Synth 8-638] synthesizing module 'TutorVHDL' [C:/My_Designs/Tutorials_cz0940_LF/TutorVHDL_Sr0940/src/TutorVHDL.vhd:36]
+INFO: [Synth 8-256] done synthesizing module 'TutorVHDL' (1#1) [C:/My_Designs/Tutorials_cz0940_LF/TutorVHDL_Sr0940/src/TutorVHDL.vhd:36]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:05 ; elapsed = 00:00:04 . Memory (MB): peak = 1252.715 ; gain = 221.633
+---------------------------------------------------------------------------------
+
+Report Check Netlist: 
++------+------------------+-------+---------+-------+------------------+
+|      |Item              |Errors |Warnings |Status |Description       |
++------+------------------+-------+---------+-------+------------------+
+|1     |multi_driven_nets |      0|        0|Passed |Multi driven nets |
++------+------------------+-------+---------+-------+------------------+
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:05 ; elapsed = 00:00:04 . Memory (MB): peak = 1252.715 ; gain = 221.633
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:05 ; elapsed = 00:00:04 . Memory (MB): peak = 1252.715 ; gain = 221.633
+---------------------------------------------------------------------------------
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Completed Processing XDC Constraints
+
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1346.348 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+RTL Elaboration Complete:  : Time (s): cpu = 00:00:13 ; elapsed = 00:00:08 . Memory (MB): peak = 1365.570 ; gain = 334.488
+6 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:18 ; elapsed = 00:00:15 . Memory (MB): peak = 1365.570 ; gain = 576.492
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Dec  8 11:19:55 2021...

@@ -1,0 +1,12 @@
+           0 us:   Wait for 1000 us
+        1000 us:   W 51
+  1520.83333 us:   Wait for 1000 us
+  2520.83333 us:   W 33
+  3041.66666 us:   Wait for 1000 us
+  4041.66666 us:   W 81
+  4562.49999 us:   Wait for 1000 us
+  5562.49999 us:   W AA
+  6083.33332 us:   Wait for 1000 us
+  7083.33332 us:   W 55
+  7604.16665 us:   Wait for 1000 us
+  8604.16665 us:   Simulation end 

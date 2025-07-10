@@ -1,0 +1,6 @@
+69
+~C 1 "../src/TestBench/tutorvhdl_TB.vhd" 83 testbench_for_tutorvhdl
+~E 1 "../src/TutorVHDL.vhd" 20 TutorVHDL
+~A 1 "../src/TutorVHDL.vhd" 29 TutorVHDL
+~E 1 "../src/TestBench/tutorvhdl_TB.vhd" 7 tutorvhdl_tb
+~A 1 "../src/TestBench/tutorvhdl_TB.vhd" 10 TB_ARCHITECTURE

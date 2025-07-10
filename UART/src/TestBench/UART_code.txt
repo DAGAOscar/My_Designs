@@ -1,0 +1,34 @@
+; This is metacode for UART simulation 
+;
+; Syntax:
+; -------
+; Operation [Data]
+;
+; Operation:	W | N | E; 
+;				W <wr_byte> - Write data
+;				N <Time_in_us> - Wait for time
+;               E Simulation end 
+;				; Non-reported comment
+;
+; Examples:
+; ---------
+; W 4A 			send 0x4A 
+; N 200			wait for 200us
+;
+;---------------------------------------------------------------------
+; init delay
+N 1000
+; Send 'Q' ASCII character
+W 51
+N 1000
+; Send '3' ASCII character
+W 33
+N 1000
+; Send extended ASCII character
+W 81
+N 1000	
+W AA
+N 1000
+W 55
+N 1000
+E 

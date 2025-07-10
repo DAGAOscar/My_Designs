@@ -1,0 +1,16 @@
+47
+~E 1 "../src/DFF_Debounce.vhd" 7 DFF_Debounce
+~A 1 "../src/DFF_Debounce.vhd" 15 Behavioral
+~E 1 "../src/divider.vhd" 31 divider
+~E 1 "../src/LED.vhd" 33 LED
+~A 1 "../src/DFF_Debounce.vhd" 43 Behavioral
+~A 1 "../src/LED.vhd" 32 led
+~E 1 "../src/TutorVHDL.vhd" 18 led_controller
+~E 1 "../src/TestBench/tutorvhdl_TB.vhd" 5 LED_tb
+~E 1 "../src/TestBench/tutorvhdl_TB.vhd" 6 main_testbench
+~A 1 "../src/TestBench/tutorvhdl_TB.vhd" 9 behavior
+~E 1 "../src/PWM.vhd" 29 PWM
+~A 1 "../src/PWM.vhd" 30 Behavioral
+~A 1 "../src/pwm.vhd" 36 pwm
+~E 1 "../src/TestBench/PWM_TB.vhd" 11 PWM_tb
+~A 1 "../src/TestBench/PWM_TB.vhd" 14 behavior

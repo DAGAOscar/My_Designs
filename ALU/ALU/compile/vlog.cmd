@@ -1,0 +1,1 @@
+-o c:/My_Designs/ALU/ALU/compile -lc c:/My_Designs/ALU/library.cfg -fl c:/My_Designs/ALU/ALU/projlib.cfg -pli "C:/Aldec/Active-HDL-Student-Edition/bin/systf.dll" -O2 -sve -msg 5 -sv2k17 -work ALU c:/My_Designs/ALU/ALU/src/ALU_TB.v 

@@ -1,0 +1,17 @@
+[COMPILESTATUS|.\src\TutorVHDL.vhd]
+FileTimeLow=30920858
+Status=Modified
+[COMPILESTATUS|.\src\TestBench\tutorvhdl_TB.vhd]
+FileTimeLow=30920858
+Status=Modified
+[COMPILESTATUS|.\src\TestBench\tutorvhdl_TB_runtest.do]
+FileTimeLow=30920856
+Status=Modified
+[COMPILESTATUS|.\src\untitled.asdb]
+FileTimeLow=30920857
+Status=Modified
+[COMPILESTATUS|.\src\untitled.awc]
+FileTimeLow=30920858
+Status=Modified
+[Gui config]
+RunFor=100 ns

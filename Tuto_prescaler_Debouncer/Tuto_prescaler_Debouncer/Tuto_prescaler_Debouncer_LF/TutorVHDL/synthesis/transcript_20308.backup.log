@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Dec 21 12:48:26 2021
+# Process ID: 20308
+# Current directory: C:/Users/ferna/Downloads/Tuto_prescaler_LF/TutorVHDL/synthesis
+# Command line: vivado.exe -mode batch -log vivado.log -journal transcript.log -source C:/Users/ferna/Downloads/Tuto_prescaler_LF/TutorVHDL/synthesis/run_vivado.tcl
+# Log file: C:/Users/ferna/Downloads/Tuto_prescaler_LF/TutorVHDL/synthesis/vivado.log
+# Journal file: C:/Users/ferna/Downloads/Tuto_prescaler_LF/TutorVHDL/synthesis\transcript.log
+#-----------------------------------------------------------
+source C:/Users/ferna/Downloads/Tuto_prescaler_LF/TutorVHDL/synthesis/run_vivado.tcl

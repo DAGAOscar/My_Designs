@@ -1,0 +1,11 @@
+[Version]
+Version=15.0
+[Designs]
+alu=.\ALU\ALU.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+[Expand]
+alu=1

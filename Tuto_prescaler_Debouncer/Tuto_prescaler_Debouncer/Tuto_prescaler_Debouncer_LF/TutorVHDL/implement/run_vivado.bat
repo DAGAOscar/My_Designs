@@ -1,0 +1,1 @@
+@call "C:/Xilinx/Vivado/2020.1/bin/vivado.bat" -mode batch -log vivado.log -journal transcript.log -source "C:/Users/ferna/Downloads/Tuto_prescaler_Debouncer_LF/Tuto_prescaler_Debouncer_LF/TutorVHDL/implement/run_vivado.tcl"

@@ -1,0 +1,29 @@
+-------------------------------------------------------------------------------
+--
+-- Title      : List of design files displayed in Active-HDL Design Browser
+-- Active-HDL : 11.1.261.7351
+-- Workspace  : TutorVHDL
+-- Design     : TutorVHDL
+-- Author     : student
+-- Company    : AGH
+-- Date       : 2021-11-10 11:07:15
+--
+-------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+File                    | Comp. | File Status | Design Folder | File Path
+                        | Order |             |               |
+--------------------------------------------------------------------------------------------------------------------------------------------------
+TutorVHDL.vhd           |     1 | Compiled    |               | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TutorVHDL.vhd
+untitled.asdb           |       | Modified    |               | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\untitled.asdb
+untitled.awc            |       | Modified    |               | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\untitled.awc
+zadanie3_wave.asdb      |       | Modified    |               | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\zadanie3_wave.asdb
+zadanie3_wave.awc       |       | Modified    |               | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\zadanie3_wave.awc
+zadanie2_wave.asdb      |       | Modified    |               | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\zadanie2_wave.asdb
+zadanie2_wave.awc       |       | Modified    |               | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\zadanie2_wave.awc
+zadanie4_wave.asdb      |       | Modified    |               | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\zadanie4_wave.asdb
+zadanie4_wave.awc       |       | Modified    |               | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\zadanie4_wave.awc
+tutorvhdl_TB.vhd        |     2 | Compiled    | TestBench     | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TestBench\tutorvhdl_TB.vhd
+tutorvhdl_TB_runtest.do |       | Modified    | TestBench     | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TestBench\tutorvhdl_TB_runtest.do
+--------------------------------------------------------------------------------------------------------------------------------------------------
+

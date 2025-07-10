@@ -1,0 +1,38 @@
+timestamp=1730258818031
+
+[~A]
+LastVerilogToplevel=Alu_tb
+ModifyID=3
+Version=74
+c:/My_Designs/ALU/ALU/src/ALU.v_ALU_TB.v=0*731*2652
+c:/My_Designs/ALU/ALU/src/ALU_TB.v=0*5569*6844
+
+[~MFT]
+0=6|0ALU.mgf|6844|1742
+1=4|1ALU.mgf|8552|4194
+3=8|3ALU.mgf|16028|8637
+
+[$root]
+A/$root=22|||1*8178
+BinW64/$root=3*13932
+SLP=3*14047
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c92169548bc3d044f99ea91b0084b0f9f1743
+
+[Alu]
+A/Alu=22|../src/ALU.v|3|1*374
+BinW64/Alu=3*183
+R=../src/ALU.v|3
+SLP=3*4363
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|89fb5459edda1fe85064b173479445986b2a56672ed579acba08eff0ecc6257f
+
+[Alu_tb]
+A/Alu_tb=22|../src/ALU_TB.v|3|1*8552
+BinW64/Alu_tb=3*14115
+R=../src/ALU_TB.v|3
+SLP=3*16028
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|09981ebec01c9b9fbe5b7c0c6e2b3a9e2c4231b37d017d8636f29050d40b4406
+
+[~U]
+$root=12|0*5226|
+Alu=12|0*182|
+Alu_tb=12|0*5408||0x10

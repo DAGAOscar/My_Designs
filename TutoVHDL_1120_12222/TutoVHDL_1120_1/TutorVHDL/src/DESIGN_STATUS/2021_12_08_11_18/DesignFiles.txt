@@ -1,0 +1,51 @@
+-------------------------------------------------------------------------------
+--
+-- Title      : List of design files displayed in Active-HDL Design Browser
+-- Active-HDL : 11.1.261.7351
+-- Workspace  : TutorVHDL
+-- Design     : TutorVHDL
+-- Author     : student
+-- Company    : AGH
+-- Date       : 2021-12-08 11:18:23
+--
+-------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+File                          | Comp. | File Status | Design Folder  | File Path
+                              | Order |             |                |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+TutorVHDL.vhd                 |     1 | Compiled    |                | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TutorVHDL.vhd
+TutorVHDL.asdb                |       | Modified    |                | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TutorVHDL.asdb
+TutorVHDL.awc                 |       | Modified    |                | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TutorVHDL.awc
+tutor_tb_synth.asdb           |       | Modified    |                | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\tutor_tb_synth.asdb
+tutor_tb_synth.awc            |       | Modified    |                | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\tutor_tb_synth.awc
+TutorVHDL.xdc                 |       | Modified    |                | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TutorVHDL.xdc
+tutorvhdl_TB.vhd              |     2 | Compiled    | TestBench      | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TestBench\tutorvhdl_TB.vhd
+tutorvhdl_TB_runtest.do       |       | Modified    | TestBench      | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TestBench\tutorvhdl_TB_runtest.do
+tutorvhdl_TB_synth.vhd        |     3 | Compiled    | TestBench      | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TestBench\tutorvhdl_TB_synth.vhd
+tutorvhdl_TB_synth_runtest.do |       | Modified    | TestBench      | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TestBench\tutorvhdl_TB_synth_runtest.do
+tutorvhdl_TB_tim.v            |     4 | Compiled    | TestBench      | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TestBench\tutorvhdl_TB_tim.v
+tutorvhdl_TB_tim_runtest.do   |       | Modified    | TestBench      | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\TestBench\tutorvhdl_TB_tim_runtest.do
+zadanie8_9_10.asdb            |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie8_9_10.asdb
+zadanie8_9_10.awc             |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie8_9_10.awc
+untitled.awc                  |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\untitled.awc
+zadanie3_wave.asdb            |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie3_wave.asdb
+zadanie3_wave.awc             |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie3_wave.awc
+zadanie2_wave.asdb            |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie2_wave.asdb
+zadanie2_wave.awc             |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie2_wave.awc
+zadanie4_wave.asdb            |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie4_wave.asdb
+zadanie4_wave.awc             |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie4_wave.awc
+zadanie5_wave.asdb            |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie5_wave.asdb
+zadanie5_wave.awc             |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie5_wave.awc
+zadanie6_wave.asdb            |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie6_wave.asdb
+zadanie6_wave.awc             |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie6_wave.awc
+zadanie7_wave.awc             |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie7_wave.awc
+zadanie7_wave.asdb            |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\zadanie7_wave.asdb
+untitled.asdb                 |       | Modified    | waves          | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\src\waves\untitled.asdb
+TutorVHDL.edn                 |     5 | Compiled    | post-synthesis | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\synthesis\TutorVHDL.edn
+TutorVHDL.vhd                 |     6 | Compiled    | post-synthesis | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\synthesis\TutorVHDL.vhd
+TutorVHDL.v                   |     7 | Warning     | timing         | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\implement\TutorVHDL.v
+TutorVHDL.sdf                 |       | Modified    | timing         | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\implement\TutorVHDL.sdf
+glbl.v                        |     8 | Compiled    | timing         | C:\My_Designs\Tutorials_cz0940_LF\TutorVHDL_Sr0940\implement\glbl.v
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+

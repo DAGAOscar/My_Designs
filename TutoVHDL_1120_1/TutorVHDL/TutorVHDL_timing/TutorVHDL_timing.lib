@@ -1,0 +1,30 @@
+timestamp=1640090070341
+
+[~A]
+ModifyID=132
+Version=74
+
+[~MFT]
+0=0|0TutorVHDL_timing.mgf|1002|0
+
+[TutorVHDL]
+A/TutorVHDL=*22|../implement/TutorVHDL.v|18|
+
+[glbl]
+A/glbl=*22|../implement/TutorVHDL.v|324|
+
+[tutorvhdl]
+A/tutorvhdl=A/TutorVHDL *21|../src/TutorVHDL.vhd|36|
+
+[tutorvhdl_tb]
+A/tb_architecture=A/TB_ARCHITECTURE *21|../src/TestBench/tutorvhdl_TB.vhd|10|
+
+[tutorvhdl_tb_tim]
+A/tutorvhdl_tb_tim=*22|../src/TestBench/tutorvhdl_TB_tim.v|22|
+
+[~U]
+TutorVHDL=12|0*0|
+glbl=12|0*456||0x10
+tutorvhdl=TutorVHDL 11|0*644|
+tutorvhdl_tb=11|0*872|
+tutorvhdl_tb_tim=12|0*1002||0x10
